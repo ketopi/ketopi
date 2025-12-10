@@ -3,6 +3,9 @@
 🌱 I'm currently working on **Geo Catastro Movil**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+
+📫 Contact me at: **totokevin6@gmail.com**
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -140,9 +143,7 @@
 <a href="https://linkedin.com/in/kevin-torrez-pillco-513770323" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
 </a>
-<a href="mailto:totokevin6@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40"/>
-</a>
+
 <a href="https://instagram.com/k3v1n_reing" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
 </a>
