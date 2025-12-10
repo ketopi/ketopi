@@ -68,7 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -101,18 +101,18 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://cloud.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Cloud_Logo.png" alt="arduino-cloud" width="40" height="40"/>
+    <img src="https://d7umqicpi7263.cloudfront.net/img/product/e99d164d-6798-418f-8543-56e5d8128477.com/f84c736e6aaf3491621bfe7c596ed6a1" alt="arduino-cloud" width="40" height="40"/>
   </a>
   <a href="https://ubidots.com/" target="_blank" rel="noreferrer">
-    <img src="https://ubidots.com/assets/img/logo.svg" alt="ubidots" width="40" height="40"/>
+    <img src="https://static.wixstatic.com/media/918126_40b3fdd3445e47889a8f924bfeb20475~mv2_d_1694_1698_s_2.png/v1/fill/w_980,h_982,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/918126_40b3fdd3445e47889a8f924bfeb20475~mv2_d_1694_1698_s_2.png" alt="ubidots" width="40" height="40"/>
   </a>
   <a href="https://thingspeak.com/" target="_blank" rel="noreferrer">
-    <img src="https://thingspeak.com/assets/thingspeak_logo.png" alt="thingspeak" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/630/2/png-transparent-digital-integration-digital-spheres-e-commerce-circle-consumer-iot-text-orange-mobile-app-development.png" alt="thingspeak" width="40" height="40"/>
   </a>
   
   <!-- Monitoreo y Data Visualization -->
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.zabbix.com/themes/custom/zabbix_bootstrap/logo.svg" alt="zabbix" width="40" height="40"/>
+    <img src="https://ssd-disclosure.com/wp-content/uploads/2022/11/1_vloEha9mTCLM_SEnXdIUIw.png" alt="zabbix" width="40" height="40"/>
   </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
@@ -120,7 +120,7 @@
   
   <!-- Machine Learning / Computer Vision -->
   <a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pjreddie/pjreddie-icon.svg" alt="yolo" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/755/671/png-clipart-opencv-c-python-computer-vision-library-numpy-text-logo-thumbnail.png" alt="yolo" width="40" height="40"/>
   </a>
   
   <!-- Sistemas y Control de Versiones -->
