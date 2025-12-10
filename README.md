@@ -137,17 +137,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Reemplaza estos enlaces con los tuyos -->
-<a href="https://linkedin.com/in/tu-usuario" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-linkedin" height="30" width="40"/>
+<a href="https://linkedin.com/in/kevin-torrez" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
 </a>
-<a href="https://stackoverflow.com/users/tu-id" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tu-stackoverflow" height="30" width="40"/>
+<a href="totokevin6@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40"/>
 </a>
-<a href="https://kaggle.com/tu-usuario" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tu-kaggle" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/tu-usuario" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tu-instagram" height="30" width="40"/>
+<a href="https://instagram.com/@k3v1n_reing" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
 </a>
 </p>
 <br>
