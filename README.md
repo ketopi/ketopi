@@ -1,5 +1,3 @@
-este es mi codigo quiero aqui queiro colocar
-
 <h1 align="center">Hi 👋, I'm Kevin Torrez!</h1>
 
 🌱 I’m currently working **Geo Catastro Movil**
@@ -20,4 +18,4 @@ este es mi codigo quiero aqui queiro colocar
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+
