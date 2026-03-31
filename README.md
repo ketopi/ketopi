@@ -37,10 +37,7 @@
   </a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>  
+  </a>   
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
@@ -90,6 +87,10 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
+  <!-- Elasticsearch -->
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+  </a>
   
   <!-- Machine Learning / Computer Vision -->
   <a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer">
@@ -120,6 +121,11 @@
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+  <!-- Docker Compose -->
+  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" alt="compose" width="30" height="30"/>
   </a>
 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
