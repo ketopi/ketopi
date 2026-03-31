@@ -124,7 +124,17 @@
 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+  </a> 
+
+  <!-- Serilog -->
+<a href="https://serilog.net/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" alt="serilog" width="40" height="40"/>
+</a>
+
+<!-- Polly -->
+<a href="https://www.thepollyproject.org/" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/d1732686ffb8241f440cc91fec67ad9a45b05f477741cc172462acb2e24a59bd/68747470733a2f2f7261772e6769746875622e636f6d2f4170702d764e6578742f506f6c6c792f6d61696e2f506f6c6c792d4c6f676f2e706e67" alt="polly" width="40" height="40"/>
+</a>
 
   
 </p>
