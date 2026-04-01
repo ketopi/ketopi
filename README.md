@@ -1,13 +1,34 @@
-<h1 align="center">Hi 👋, I'm Kevin Torrez!</h1>
-
-🌱 I'm currently working on **Geo Catastro Movil**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-
-📫 Contact me at: **totokevin6@gmail.com**
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+ 
+# Hi there, I'm Kevin Torrez! 👋
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+Dev+%7C+React+Native;Backend+%7C+.NET+%26+FastAPI;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+ 
+<br/>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-torrez-pillco-513770323)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k3v1n_reing)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:totokevin6@gmail.com)
+ 
+</div>
+ 
+---
+ 
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+ 
+### 👨‍💻 About Me
+ 
+- 🔭 Currently building **Geo Catastro Móvil**
+- 🌱 Learning and Growing every day in **Mobile & Backend development**
+- 💡 Passionate about building **real-world solutions**
+- 📫 Reach me at **totokevin6@gmail.com**
+ 
+<br clear="right"/>
+ 
+---
+ 
+### 🛠️ Languages & Tools
+ 
 <p align="left">
   <!-- IDEs y Editores -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -140,22 +161,5 @@
 <!-- Polly -->
 <a href="https://www.thepollyproject.org/" target="_blank" rel="noreferrer">
   <img src="https://camo.githubusercontent.com/d1732686ffb8241f440cc91fec67ad9a45b05f477741cc172462acb2e24a59bd/68747470733a2f2f7261772e6769746875622e636f6d2f4170702d764e6578742f506f6c6c792f6d61696e2f506f6c6c792d4c6f676f2e706e67" alt="polly" width="40" height="40"/>
-</a>
-
-  
+</a>  
 </p>
-
-<br>
-<hr width="36%">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Reemplaza estos enlaces con los tuyos -->
-<a href="https://linkedin.com/in/kevin-torrez-pillco-513770323" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-</a>
-
-<a href="https://instagram.com/k3v1n_reing" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
-</a>
-</p>
-<br>
