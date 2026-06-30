@@ -2,7 +2,7 @@
  
 # Hi there, I'm Kevin Torrez! 👋
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+Dev+%7C+React+Native;Backend+%7C+.NET+%26+FastAPI;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Full-Stack+%26+Mobile;Software+Developer+%7C+Full-Stack+%26+Mobile;Software+Developer+%7C+Full-Stack+%26+Mobile" alt="Typing SVG" />
  
 <br/>
  
