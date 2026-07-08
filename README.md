@@ -95,12 +95,7 @@
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
     <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/>
   </a>
-  
-  <!-- IoT y Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  
+   
   <!-- Monitoreo y Data Visualization -->
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://ssd-disclosure.com/wp-content/uploads/2022/11/1_vloEha9mTCLM_SEnXdIUIw.png" alt="zabbix" width="40" height="40"/>
@@ -112,12 +107,7 @@
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   </a>
-  
-  <!-- Machine Learning / Computer Vision -->
-  <a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/755/671/png-clipart-opencv-c-python-computer-vision-library-numpy-text-logo-thumbnail.png" alt="yolo" width="40" height="40"/>
-  </a>
-  
+    
   <!-- Sistemas y Control de Versiones -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -153,15 +143,11 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a> 
 
-  <!-- Serilog -->
-<a href="https://serilog.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" alt="serilog" width="40" height="40"/>
-</a>
 
-<!-- Polly -->
-<a href="https://www.thepollyproject.org/" target="_blank" rel="noreferrer">
-  <img src="https://camo.githubusercontent.com/d1732686ffb8241f440cc91fec67ad9a45b05f477741cc172462acb2e24a59bd/68747470733a2f2f7261772e6769746875622e636f6d2f4170702d764e6578742f506f6c6c792f6d61696e2f506f6c6c792d4c6f676f2e706e67" alt="polly" width="40" height="40"/>
-</a>  
+<!-- Electron -->
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/>
+</a>
 <!-- Docusaurus -->
 <a href="https://docusaurus.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/facebook/docusaurus/main/website/static/img/docusaurus_keytar.svg" alt="Docusaurus" width="40" height="40"/>
