@@ -1,22 +1,28 @@
 <div align="center">
  
-# Hi there, I'm Kevin Torrez! 👋
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Full-Stack+%26+Mobile;Software+Developer+%7C+Full-Stack+%26+Mobile;Software+Developer+%7C+Full-Stack+%26+Mobile" alt="Typing SVG" />
- 
+# Hi there, I'm Kevin Torrez! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web+%7C+Mobile+%7C+Desktop;Full-Stack+Developer+%7C+Building+Scalable+Solutions;Mobile+Apps+%7C+Web+Platforms+%7C+Desktop+Systems" alt="Typing SVG" />
+
 <br/>
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-torrez-pillco-513770323)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k3v1n_reing)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:totokevin6@gmail.com)
- 
+<div align="center">
+
+<a href="https://linkedin.com/in/kevin-torrez-pillco-513770323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/k3v1n_reing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="mailto:totokevin6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://ketopi.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/ketopi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 </div>
  
 ---
  
 <img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
  
-### 👨‍💻 About Me
+###  About Me <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30px height=30px>
+
  
 - 🔭 Currently building **Geo Catastro Móvil**
 - 🌱 Learning and Growing every day in **Mobile & Backend development**
@@ -158,3 +164,9 @@
   <img src="https://raw.githubusercontent.com/storybookjs/brand/main/icon/icon-storybook-default.svg" alt="Storybook" width="40" height="40"/>
 </a>
 </p>
+
+<div align="center">
+<!--
+![ketopi's GitHub Stats](https://github-vercel-deployment-seven.vercel.app/api?username=ketopi&show_icons=true&theme=github_dark_dimmed&rank_icon=github&include_all_commits=true)
+-->
+</div> 
