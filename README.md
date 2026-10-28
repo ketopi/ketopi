@@ -24,7 +24,7 @@
 ###  About Me <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30px height=30px>
 
  
-- 🔭 Currently building **Ecclesia Desktop | Software de Gestión Parroquial**
+- 🔭 Currently building **Fidara Desktop | Software de Gestión Parroquial**
 - 🌱 Learning and Growing every day in **Mobile & Backend development**
 - 💡 Passionate about building **real-world solutions**
 - 📫 Reach me at **totokevin6@gmail.com**
