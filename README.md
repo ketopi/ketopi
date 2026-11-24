@@ -57,6 +57,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>  
+  <!-- TypeScript -->
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
   
   <!-- Frontend -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
@@ -149,7 +154,11 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a> 
 
+<!-- Supabase -->
 
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" alt="Supabase" width="40" height="40"/>
+</a>
 <!-- Electron -->
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/>
@@ -158,6 +167,12 @@
 <!-- NestJS -->
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
 <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
+</a>
+
+<!-- Vercel -->
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
 </a>
 
 <!-- Storybook -->
