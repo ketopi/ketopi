@@ -154,9 +154,10 @@
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/>
 </a>
-<!-- Docusaurus -->
-<a href="https://docusaurus.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/facebook/docusaurus/main/website/static/img/docusaurus_keytar.svg" alt="Docusaurus" width="40" height="40"/>
+
+<!-- NestJS -->
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </a>
 
 <!-- Storybook -->
