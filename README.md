@@ -40,12 +40,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/>
-  </a>
   
   <!-- Lenguajes de Programación -->  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -155,10 +149,10 @@
   </a> 
 
 <!-- Supabase -->
-
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" alt="Supabase" width="40" height="40"/>
 </a>
+
 <!-- Electron -->
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/>
@@ -186,7 +180,34 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" alt="Podman" width="40" height="40"/>
 </a>
 
+<!-- Vitest -->
+
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+  <img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/>
+</a>
+<!-- Swagger -->
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+</a>
+
+<!-- Prisma -->
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+</a>
+
+<!-- Playwright -->
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+</a>
+
 </p>
+
+
+<!-- OpenCode -->
+<!-- <a href="https://opencode.ai/" target="_blank" rel="noreferrer">
+  <img src="https://opencode.ai/favicon.ico" alt="OpenCode" width="40" height="40"/>
+</a> -->
+
 
 <div align="center">
 <!--
